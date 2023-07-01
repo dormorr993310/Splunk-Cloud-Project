@@ -14,7 +14,7 @@ By leveraging Splunk Cloud's robust search and filtering capabilities, the proje
 
 1. Identify and isolate log data specific to the Google Cybersecurity Certificate Program, ensuring the analysis is tailored to the relevant context.
 
-
+<img width="1536" alt="Screenshot 2023-06-26 at 3 00 06 AM" src="https://github.com/dormorr993310/Splunk-Cloud-Project/assets/138055368/1a0c705e-67b9-4822-86f9-b5524138e5ea">
 
 
 
