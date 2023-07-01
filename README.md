@@ -28,6 +28,7 @@ By leveraging Splunk Cloud's robust search and filtering capabilities, the proje
 
 3. Filter logs by host to narrow down the analysis scope to specific devices, servers, or network elements involved in the program's infrastructure.
 
+<img width="1536" alt="Screenshot 2023-06-30 at 8 39 45 PM" src="https://github.com/dormorr993310/Splunk-Cloud-Project/assets/138055368/7ea7911e-a87b-4498-a7b6-ef1a1814eee0">
 
 
 
