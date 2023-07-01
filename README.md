@@ -10,11 +10,31 @@ The first screenshot showcases the Splunk Cloud interface, where the user has co
 
 By leveraging Splunk Cloud's robust search and filtering capabilities, the project aims to achieve the following objectives:
 
-<img width="1536" alt="Screenshot 2023-06-26 at 3 00 06 AM" src="https://github.com/dormorr993310/Splunk-Cloud-Project/assets/138055368/0c6c0f56-b065-427c-81a3-25c08eacd496">
+
 
 1. Identify and isolate log data specific to the Google Cybersecurity Certificate Program, ensuring the analysis is tailored to the relevant context.
+
+
+
+
+
+
 2. Refine searches based on the index, which categorizes the logs and provides a logical separation for different sources or applications within the program.
+
+
+
+
+
 3. Filter logs by host to narrow down the analysis scope to specific devices, servers, or network elements involved in the program's infrastructure.
+
+
+
+
+
 4. Utilize source type filtering to distinguish and analyze logs based on their format, allowing for targeted analysis of different log sources such as system logs, application logs, or security event logs.
+
+
+
+
 
 The project leverages the capabilities of Splunk Cloud to provide an efficient and effective log analysis workflow, enabling users to gain actionable insights and improve the cybersecurity posture of the Google Cybersecurity Certificate Program.
