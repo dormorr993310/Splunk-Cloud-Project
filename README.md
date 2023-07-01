@@ -19,9 +19,15 @@ By leveraging Splunk Cloud's robust search and filtering capabilities, the proje
 
 
 
+
+
+
 2. Refine searches based on the index, which categorizes the logs and provides a logical separation for different sources or applications within the program.
 
 <img width="1536" alt="Screenshot 2023-06-30 at 8 36 51 PM" src="https://github.com/dormorr993310/Splunk-Cloud-Project/assets/138055368/fdf1e607-d42e-4b9a-b07f-fdcac561548f">
+
+
+
 
 
 
@@ -33,7 +39,14 @@ By leveraging Splunk Cloud's robust search and filtering capabilities, the proje
 
 
 
+
+
+
 4. Utilize source type filtering to distinguish and analyze logs based on their format, allowing for targeted analysis of different log sources such as system logs, application logs, or security event logs.
+
+<img width="1536" alt="Screenshot 2023-06-30 at 9 17 34 PM" src="https://github.com/dormorr993310/Splunk-Cloud-Project/assets/138055368/0ca9edf5-d2d3-46d6-a0dc-8d1ede7ea224">
+
+
 
 
 
